@@ -1,35 +1,15 @@
 # Project
 
 #### Project Timeline:
-Date
-Semester milestone
-Project milestone
-Sun, 09 12
-Deliverable 1: new learning
-Learn to use javascript with more uses
-Mon, 03 07
-Deliverable 2: new learning & project foundation
-Finished landscape of game (blocks and textures)
-Mon, 04 04
-Deliverable 3: building the project
-Finished maze with prize at the the end
-Tue, 04 19
-Deliverable 4: adding features & debugging
-Enemies that follow the player and attack + healthbar
-4-22 to 5-07
-Easter & Eid al-Fitr
-Mon, 05 16
-Deliverable 5: using feedback to improve/debug
-Player able to break blocks and place them again
-Thu, 06 02
-Final Project due
-Final project done, players able to move through maze, break blocks, fight enemies
+| Deliverables      | Project Milestone                |
+| ----------------- | -------------------------------- |
+| Deliverable 1     | Review Javascript and HTML       |
+| Deliverable 2     | Create landscape of game         |
+| Deliverable 3     | Finish maze in game              |
+| Deliverable 4     | Make enemies that attack player  |
+| Deliverable 5     | Make game interactive for player |
+| Final Project Due | Complete entire game             |
 
-Date
--------
-|Sun, 09 12 |
-|1          |
-|3 |
 
 **Deliverable 1**
 
@@ -42,4 +22,10 @@ Date
 5. *What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?*
 6. Nothing really, I just need to keep working on my project consistently and follow my timeline that I created.
 
-What I've learned so far is mostly just relearning and reminding myself of how HTML and Javascript works
+What I've learned so far for my project is mostly just relearning and reminding myself of how HTML and Javascript works, like tags in HTML or functions in Javascript, or just the format for either of them and how they work. I've also remembered how to use A-frame with HTML in Glitch to create a VR world where you can create shapes and move around in them. Example:
+```
+      <a-box position="-1 0.5 -1" color="#4CC3D9"></a-box>
+      <a-box position="-1 1.5 -1" color="blue"></a-box>
+      <a-box position="-1 2.5 -1" color="purple"></a-box>
+      <a-box position="1 0.5 -1" color="#4CC3D9"></a-box>
+```
