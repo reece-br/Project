@@ -1,5 +1,35 @@
 # Project
 
+#### Project Timeline:
+Date
+Semester milestone
+Project milestone
+Sun, 09 12
+Deliverable 1: new learning
+Learn to use javascript with more uses
+Mon, 03 07
+Deliverable 2: new learning & project foundation
+Finished landscape of game (blocks and textures)
+Mon, 04 04
+Deliverable 3: building the project
+Finished maze with prize at the the end
+Tue, 04 19
+Deliverable 4: adding features & debugging
+Enemies that follow the player and attack + healthbar
+4-22 to 5-07
+Easter & Eid al-Fitr
+Mon, 05 16
+Deliverable 5: using feedback to improve/debug
+Player able to break blocks and place them again
+Thu, 06 02
+Final Project due
+Final project done, players able to move through maze, break blocks, fight enemies
+
+Date
+-------
+|Sun, 09 12 |
+|1          |
+|3 |
 
 **Deliverable 1**
 
