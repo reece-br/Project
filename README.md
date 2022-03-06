@@ -11,7 +11,7 @@
 | Final Project Due | Complete entire game             |
 
 
-**Deliverable 2,**
+**Deliverable 2 -**
 6 March, 2022
 
 1. *What was your goal for this deliverable, as defined on your Learning Plan?*
@@ -24,7 +24,7 @@
 So far what I've done in my Computer Coding class 
 
 
-**Deliverable 1,**
+**Deliverable 1 -**
 7 February, 2022
 
 1. *What was your goal for this deliverable, as defined on your Learning Plan?*
