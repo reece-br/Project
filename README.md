@@ -1,6 +1,6 @@
 # Project
 
-#### Project Timeline:
+#### Original Project Timeline:
 | Deliverables      | Project Milestone                |
 | ----------------- | -------------------------------- |
 | Deliverable 1     | Review Javascript and HTML       |
@@ -9,6 +9,19 @@
 | Deliverable 4     | Make enemies that attack player  |
 | Deliverable 5     | Make game interactive for player |
 | Final Project Due | Complete entire game             |
+
+
+**Deliverable 2,**
+6 March, 2022
+
+1. *What was your goal for this deliverable, as defined on your Learning Plan?*
+2. Create the landscape of the game by actually coding in the maze with textures.
+3. *Did you meet this goal? If not, why?*
+4. No, I wasn't able to meet this goal by the time of the deliverable. Instead of actually working on the maze, I diverged from my plan and instead focused on making the website that you visit in order to go to the maze. I wasn't planning on having this website, but realized I needed it to explain the game, the controls, and other aspects of the project.
+5. *What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?*
+6. I think I need to stick to the plan in order to stay on schedule, and put in more time into the project. I also think that I would need to change the plan a little, because I've already gone away from it. I've decided that my goal of making the game more interactive through being able to place blocks was too ambitious would be way too complicated to do in a single semester. As a result, I'm changing that part of the plan so I can still complete the project.
+
+So far what I've done in my Computer Coding class 
 
 
 **Deliverable 1,**
