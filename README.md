@@ -12,7 +12,6 @@
 
 
 **Deliverable 1**
-
 7 February, 2022
 
 1. *What was your goal for this deliverable, as defined on your Learning Plan?*
