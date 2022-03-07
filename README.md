@@ -28,7 +28,6 @@ div {
   border: 5px solid green;
   padding: 10px;
   margin: auto;
-  
 }
 ```
 
