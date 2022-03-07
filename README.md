@@ -21,7 +21,16 @@
 5. *What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?*
 6. I think I need to stick to the plan in order to stay on schedule, and put in more time into the project. I also think that I would need to change the plan a little, because I've already gone away from it. I've decided that my goal of making the game more interactive through being able to place blocks was too ambitious would be way too complicated to do in a single semester. As a result, I'm changing that part of the plan so I can still complete the project.
 
-So far what I've done in my Computer Coding class 
+So far what I've done in this class is I've started making my project. I've started using A-Frame to make my maze in VR, and I've relearned and reminded myself how to code using Javascript and HTML. After that, I started working on the actual website that will tell you the instructions for the game and will have the introduction. I also learned about CSS and how to use it, and how to use external, internal, and inline CSS in my HTML to make up the design of websites. I learned how to also use Bootstrap to make buttons on my website. That's mostly what I've done so far in computer coding 2. Example of using CSS to make a box:
+```
+div {
+  width: 500px;
+  border: 5px solid green;
+  padding: 10px;
+  margin: auto;
+  
+}
+```
 
 
 **Deliverable 1 -**
