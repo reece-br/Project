@@ -11,6 +11,18 @@
 | Final Project Due | Complete entire game             |
 
 
+**Deliverable 3 -**
+4 April, 2022
+
+1. *What was your goal for this deliverable, as defined on your Learning Plan?*
+2. My goal for this deliverable was to
+3. *Did you meet this goal? If not, why?*
+4. 
+5. *What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?*
+6. 
+
+
+
 **Deliverable 2 -**
 6 March, 2022
 
