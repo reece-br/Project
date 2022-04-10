@@ -15,11 +15,18 @@
 4 April, 2022
 
 1. *What was your goal for this deliverable, as defined on your Learning Plan?*
-2. My goal for this deliverable was to
+2. My goal for this deliverable was to finish making the actual maze in the VR part of the game.
 3. *Did you meet this goal? If not, why?*
-4. 
+4. Yes, I did meet my goal.
 5. *What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?*
-6. 
+6. I don't need to change anything for me to stay on schedule from now on. I just need to keep on working hard on my project during class. I need to keep my timeline and stick to the plan.
+
+So far what I've done in Computer Coding 2 is that I've started to work on my project, both the beginning website and the maze itself. I've made the beginning website have the instructions so the players know what they're doing, and on a separate website, which is linked to the other with a Bootstrap button, I've used A-Frame to make the 3D maze. Since Deliverable 2, I haven't really worked on the introduction website and instead I have focused on coding in the blocks that make up the maze, as per my timeline. The shape of the maze is finished, meaning you can go through it and try to navigate it, though there are still some things I have to fix. I also added texture to the walls by importing an image of part of a wall into my project and putting it onto the maze. Coding the maze took a really long time to make, because, instead of making it out of rectangles or bigger shaped boxes for bigger sections of wall, I decided to do each block individually, in a maze that was 20 x 20. This ended up with me making almost 500 blocks and positioning them all in exactly the right way so the maze would turn out fine. Luckily I was able to copy and paste most of them and just change the positioning. Here is the code for just one box in the maze:
+```
+<a-box position="1 0.5 -3" src="https://cdn.glitch.global/8abb628d-22c4-4bb8-aadf-810840838fc0/Wall.jpg?v=1649488375908"></a-box>
+```
+
+Link to screencast explanation of Deliverable 3:
 
 
 
