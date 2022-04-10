@@ -26,7 +26,7 @@ So far what I've done in Computer Coding 2 is that I've started to work on my pr
 <a-box position="1 0.5 -3" src="https://cdn.glitch.global/8abb628d-22c4-4bb8-aadf-810840838fc0/Wall.jpg?v=1649488375908"></a-box>
 ```
 
-Link to screencast explanation of Deliverable 3:
+Link to screencast explanation of Deliverable 3: https://youtu.be/GNS2DyrSyF4
   
   
   
