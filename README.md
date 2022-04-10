@@ -27,9 +27,9 @@ So far what I've done in Computer Coding 2 is that I've started to work on my pr
 ```
 
 Link to screencast explanation of Deliverable 3:
-
-
-
+  
+  
+  
 **Deliverable 2 -**
 6 March, 2022
 
@@ -51,9 +51,9 @@ div {
 ```
 
 Link to screencast explanation of Deliverable 2: https://www.youtube.com/watch?v=N-YGU-v6Jpo
-
-
-
+  
+  
+  
 **Deliverable 1 -**
 7 February, 2022
 
