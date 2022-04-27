@@ -11,6 +11,24 @@
 | Final Project Due | Complete entire game             |
 
 
+
+**Deliverable 4 -**
+21 April, 2022
+
+1. *What was your goal for this deliverable, as defined on your Learning Plan?*
+2. My goal for this deliverable was to make enemies that followed around and attacked the player
+3. *Did you meet this goal? If not, why?*
+4. Unfortunately, I was not able to meet my goal of making the enemies
+5. *What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?*
+6. To get on schedule, I need to put in extra time at home to code in the enemies. I underestimated how long it would take to finish other parts of the maze, so I thought that I would have enough time by this deliverable to have the enemies already coded in. According to my original plan, I would need to have this finished, and spend the next two weeks making the game interactive, meaning the player can break and pick up blocks. Luckily, I have removed that from my project because it is too ambitious, so I now have an extra couple of weeks to work on the enemies and the attack system of the player. In order to get on track, I think I will need to put in a little extra time outside of class.
+
+So far what I've done on my project for Deliverable 4 is that I've improved the maze more by adding more features and fixing the environment of the game. As of Deliverable 3, I had made all the walls for the maze and added the texture to them. However, there wasn't a floor or a sky, or anything of an environment to the maze, so I needed to add that. First, I researched and learned how to use a sky in A-Frame, so I looked for a sky texture to use. Then, I needed to make it seem like the player wasn't just floating around inside the maze, so I researched how to add a ground to the maze and then did that. The other main thing I did was I slightly shaded some of the blocks that make up the walls of the maze, to make it seem more authentic and not just completely flat. I did this by adding a light gray color randomly to some blocks which kind of created the impression of texture. All of this I made using A-Frame. Here is how I added a sky to my maze. First, I imported the texture file into the project and then put this line of code:
+```
+<a-sky src="https://cdn.glitch.global/8abb628d-22c4-4bb8-aadf-810840838fc0/download.jpg?v=1650540758469"></a-sky>
+```
+
+
+
 **Deliverable 3 -**
 4 April, 2022
 
