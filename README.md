@@ -27,6 +27,8 @@ So far what I've done on my project for Deliverable 4 is that I've improved the 
 <a-sky src="https://cdn.glitch.global/8abb628d-22c4-4bb8-aadf-810840838fc0/download.jpg?v=1650540758469"></a-sky>
 ```
 
+Link to screencast explanation of Deliverable 4: https://youtu.be/5ZSs4y_VyLE
+
 
 
 **Deliverable 3 -**
