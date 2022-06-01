@@ -12,6 +12,30 @@
 
 
 
+**Deliverable 5 -**
+12 May, 2022
+
+1. *What was your goal for this deliverable, as defined on your Learning Plan?*
+2. My original goal for this deliverable was to make the player able to break and put down blocks, but then I changed it to be to make enemies in the game that chased the player.
+3. *Did you meet this goal? If not, why?*
+4. No, I still have not been able to add enemies into the game.
+5. *What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?*
+6. To stay on schedule from now on, I think I need to start working outside of class and putting in extra time. However, I just don't know if I'm going to be able to code in the enemies at all. Now that the final project submission is coming up, I realized that there was still a lot of stuff I needed to do. None of them were very big changes, but they were just a lot of small additions to increase the quality of my project and to get it ready for the submission. I focused more on this than on adding enemies, which is why I wasn't able to get them done by this deliverable. If I put in extra time, I might be able to get them done by the time the project is due. Otherwise, I'll need to remove them from the plan.
+
+So far what I've done on my project for this deliverable is that I've added a lot of smaller changes that improved the overall quality of the project, but not anything big. For example, even though I wasn't able to reach my goal for this deliverable, I added things like a three minute timer that the player has to finish the maze before that, which took a surprisingly long time for me to figure out. If the player hasn't reached the end of the maze before the three minutes are up, the page will reload, sending the player back to the start of the maze. I also improved the beginning and end of the maze. Before, you would just start in the middle of a hallway with empty space behind you that you could use to go around the maze instead of through it, and it ended with another hallway also ending in empty space. Now, I made it so the player starts in a small room, and the maze ends in another room with a marker in it to signify that they have reached the end. I also updated the instructions on the first page to make it more clear and to reflect all the recent changes and improvements. When I was done with that, I started working on adding enemies, and I spent a some time experimenting with how to do that. This is part of the javascript code for the timer:
+```
+const setTimerMinutes = 3;
+let time = setTimerMinutes * 60;
+```
+This is all of the code for the timer in HTML:
+```
+<p id="countdown"></p>
+```
+Feedback: A plan for getting feedback that I could use is to add another button on the original website with the instructions that says something like "Give Feedback" that, when they click on it, it would take them to a Google Form with questions asking what could be improved and how they rated different aspects of it and what their thoughts were of it.
+
+
+
+
 **Deliverable 4 -**
 21 April, 2022
 
