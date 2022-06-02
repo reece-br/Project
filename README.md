@@ -11,6 +11,15 @@
 | Final Project Due | Complete entire game             |
 
 
+**Final Project Links**
+Link to Final Project Introduction Website Code: https://glitch.com/edit/#!/maze-game-cc2?path=index.html%3A1%3A0
+Link to Final Project Introduction Website: https://maze-game-cc2.glitch.me/
+Link to Final Project Maze Website Code: https://glitch.com/edit/#!/vr-maze?path=index.html%3A1%3A0
+Link to Final Project Maze Website: https://vr-maze.glitch.me/
+Link to Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLScWS6XJToY0OSDGpIbjWBxG3KS6cGMndFiZEqzcNGASyTrFew/viewform?usp=sf_link
+
+
+
 
 **Deliverable 5 -**
 12 May, 2022
@@ -33,11 +42,6 @@ This is all of the code for the timer in HTML:
 ```
 Feedback: A plan for getting feedback that I could use is to add another button on the original website with the instructions that says something like "Give Feedback" that, when they click on it, it would take them to a Google Form with questions asking what could be improved and how they rated different aspects of it and what their thoughts were of it.
 
-Link to Final Project Introduction Website Code: https://glitch.com/edit/#!/maze-game-cc2?path=index.html%3A1%3A0
-Link to Final Project Introduction Website: https://maze-game-cc2.glitch.me/
-Link to Final Project Maze Website Code: https://glitch.com/edit/#!/vr-maze?path=index.html%3A1%3A0
-Link to Final Project Maze Website: https://vr-maze.glitch.me/
-Link to Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLScWS6XJToY0OSDGpIbjWBxG3KS6cGMndFiZEqzcNGASyTrFew/viewform?usp=sf_link
 
 
 
