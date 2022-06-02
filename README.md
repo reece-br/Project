@@ -12,11 +12,11 @@
 
 
 **Final Project Links**
-Link to Final Project Introduction Website Code: https://glitch.com/edit/#!/maze-game-cc2?path=index.html%3A1%3A0
-Link to Final Project Introduction Website: https://maze-game-cc2.glitch.me/
-Link to Final Project Maze Website Code: https://glitch.com/edit/#!/vr-maze?path=index.html%3A1%3A0
-Link to Final Project Maze Website: https://vr-maze.glitch.me/
-Link to Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLScWS6XJToY0OSDGpIbjWBxG3KS6cGMndFiZEqzcNGASyTrFew/viewform?usp=sf_link
+- Link to Final Project Introduction Website Code: https://glitch.com/edit/#!/maze-game-cc2?path=index.html%3A1%3A0
+- Link to Final Project Introduction Website: https://maze-game-cc2.glitch.me/
+- Link to Final Project Maze Website Code: https://glitch.com/edit/#!/vr-maze?path=index.html%3A1%3A0
+- Link to Final Project Maze Website: https://vr-maze.glitch.me/
+- Link to Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLScWS6XJToY0OSDGpIbjWBxG3KS6cGMndFiZEqzcNGASyTrFew/viewform?usp=sf_link
 
 
 
